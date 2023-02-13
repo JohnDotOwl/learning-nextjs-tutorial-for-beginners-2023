@@ -1,2 +1,3 @@
-# learning-nextjs-tutorial-for-beginners-2023
-# learning-nextjs-tutorial-for-beginners-2023
+# Learning Next 2023 
+
+Tutorial Source : https://www.youtube.com/watch?v=qwhMyVVnmKM
